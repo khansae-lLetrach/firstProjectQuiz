@@ -1,0 +1,130 @@
+{ "souschapitre":[{
+    "id_ch": "15",
+    "chapitre": "PHP",
+    "titreChapitre": "PHP Variables",
+    "descriptionCh": "['Variables are used']",
+    "date": "2021-06-29"
+},
+{
+    "id_ch": "15",
+    "chapitre": "PHP",
+    "titreChapitre": "PHP Variables",
+    "descriptionCh":" ['Variables are used']",
+    "date": "2021-06-29"
+},
+{
+    "id_ch": "15",
+    "chapitre":"PHP",
+   " titreChapitre": "PHP Arrays",
+    "descriptionCh":"Un tableau est une variable spéciale, qui peut contenir plusieurs valeurs à la fois.",
+    "date": "2021-06-29"
+},
+{
+    "id_ch":" 16",
+    "chapitre": "HTML",
+    "titreChapitre": "HTML Elements",
+   " descriptionCh": "['Un élément HTML est défini par une ']",
+    "date": "2021-06-29"
+},
+{
+   " id_ch": "16",
+    "chapitre": "HTML",
+    "titreChapitre": "Attributs HTML",
+    "descriptionCh":" ['Les attributs HTML fournissent des informations s']",
+    "date": "2021-06-29"
+},
+{
+    "id_ch":" 16",
+    "chapitre": "HTML",
+    "titreChapitre": "Listes HTML",
+    "descriptionCh":" ['Les listes HTML permettent aux développeurs Web de regrouper ']",
+    "date": "2021-06-29"
+},
+{
+    "id_ch":" 16",
+    "chapitre": "HTML",
+    "titreChapitre": "Listes HTML",
+    "descriptionCh": "['Les listes HTML permettent aux développeurs Web de regrouper ']",
+    "date": "2021-06-29"
+},
+{
+    "id_ch": "17",
+    "chapitre": "JavaScript",
+    "titreChapitre": "Syntaxe JavaScript",
+    "descriptionCh": "['La syntaxe JavaScript est l ensemble des règles']",
+    "date": "2021-06-30"
+},
+{
+    "id_ch": "17",
+    "chapitre": "JavaScript",
+    "titreChapitre": "JavaScript Variables",
+    "descriptionCh": "['Les variables sont des conteneurs pour stocker des données (valeurs).']",
+    "date": "2021-06-30"
+},
+{
+    "id_ch":"17",
+   " chapitre": "JavaScript",
+   " titreChapitre": "Opérateurs JavaScript",
+    "descriptionCh": "['Attribuez des valeurs aux variables']",
+    "date": "2021-06-30"
+},
+{
+    "id_ch": "18",
+    "chapitre": "PYTHON",
+    "titreChapitre": "Python Syntax",
+    "descriptionCh": "['Comme nous l avons appris dans la page précédente, la syntaxe Python']",
+    "date": "2021-06-30"
+},
+{
+    "id_ch":" 18",
+    "chapitre": "PYTHON",
+    "titreChapitre": "Python Variables",
+    "descriptionCh": "['Les variables sont des conteneurs pour stocker des valeurs de données.']",
+    "date": "2021-06-30"
+},
+{
+    "id_ch": "19",
+    "chapitre": "SQL SERVER",
+    "titreChapitre": "SQL Syntax",
+    "descriptionCh":" ['Une base de données contient le plus souvent une ou ]",
+    "date": "2021-06-30"
+
+},
+{
+    "id_ch": "20",
+    "chapitre": "Asp.Net",
+   " titreChapitre": "ASP Syntax",
+    "descriptionCh": "[Tous nos exemples montrent le code ASP en rouge.</]",
+   "date": "2021-07-01"
+
+},
+{
+   "id_SousCh": "20",
+    "chapitre": "Asp.Net",
+    "titreChapitre": "ASP Procedures",
+   " descriptionCh":" [Tous nos exemples montrent le code ASP en rouge.]",
+    "date": "2021-07-1"
+
+},
+{
+    "id_SousCh": "21",
+    "chapitre": "CSS",
+    "titreChapitre": "CSS Syntax",
+   "descriptionCh": "['Une règle CSS se compose d un seac']",
+    "date": "2021-07-1"
+},
+{
+    "id_ch": "21",
+    "chapitre": "CSS",
+    "titreChapitre": "Sélecteurs CSS",
+    "descriptionCh":" [Un sélecteur CSS sélectionne le ou]",
+    "date": "2021-07-1"
+},
+{
+    "id_ch": "21",
+   " chapitre":"CSS",
+    "titreChapitre": "Sélecteurs CSS",
+    "descriptionCh":" ['Un sélecteur CSS sélectionne le ou']",
+    "date": "2021-07-1"
+}
+]}
